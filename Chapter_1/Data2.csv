@@ -1,0 +1,12 @@
+Country,cpc,drive_right,Purchased,pop
+France,44,TRUE,No,10
+Spain,27,FALSE,Yes,20
+Germany,30,TRUE,No,30
+Spain,38,FALSE,No,20
+Germany,40,TRUE,Yes,30
+France,35,FALSE,Yes,10
+China,52,TRUE,No,80
+India,48,TRUE,Yes,60
+America,45,TRUE,No,40
+Canada,12,FALSE,Yes,nan
+Pakistan,10,TRUE,Yes,
