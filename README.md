@@ -1,5 +1,6 @@
 # Data-Analysis-with-Python
 This is a course of Data Analysis using Python taught by Dr Muhammad Tahir. Chapters outline are given below:
+
   Chapter-1: Data Manipulation with pandas 
 
   Chapter-2: Merging DataFrames with pandas 
