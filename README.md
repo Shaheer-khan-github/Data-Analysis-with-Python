@@ -19,3 +19,5 @@ All notebooks are prepared to run on google Colab. But you can run these books o
 #### %cd is used to change the directory and used to give the path of where the file is located on google Drive. You can set your path according to your own.
 
 Comments are placed above or inline to understand what line is doing.  
+
+Binder Link: [link](https://mybinder.org/v2/gh/alihussainia/Data-Analysis-with-Python/main?urlpath=lab)
